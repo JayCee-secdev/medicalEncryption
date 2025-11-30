@@ -74,4 +74,3 @@ medical_file_encryption/
 │
 └── encrypted_files/
     └── *.bin (encrypted files)
-
