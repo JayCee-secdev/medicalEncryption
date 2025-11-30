@@ -56,6 +56,11 @@ When User B decrypts a file:
  - B chooses where to save the decrypted version
  - End-to-end encryption: only the intended recipient(s) can decrypt the file.
 
+## 📦 Installation
+Install dependencies
+``pip install cryptography``
+
+
 ## 🗂️ Project Structure
 medical_file_encryption/
 │
